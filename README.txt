@@ -1,17 +1,3 @@
-Lucas Turano
-2420768
-turano@chapman.edu
-CPSC 231 - 04
-MP3B
+README
 
-Card.java
-Deck.java
-Dealer.java
-Player.java
-Game.java
-SpoonsDriver.java
-
-
-No errors
-
-Shared ideas with Arohi Yadav
+This is a recreation of the card game spoons in java. The game is played between 4 players with no user input. The code runs through the whole game and then outputs the players who have won a spoons and the losing player that did not grab a spoon.
