@@ -1,9 +1,3 @@
-// Lucas Turano
-// 2420768
-// turano@chapman.edu
-// CPSC 231 - 04
-//MP3A
-
 //package cards;
 
 public class Card{
